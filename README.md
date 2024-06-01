@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vivek Pal</h1>
 <h3 align="center">A passionate Full Stack Developer from India.</h3>
 
-- 🔭 I’m currently working on **Next.js Application**
+- 🔭 I’m currently working on **React, Next.js, Node Application**
 
 - 🌱 I’m currently learning **Next.js**
 
